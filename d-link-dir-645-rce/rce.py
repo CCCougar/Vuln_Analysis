@@ -144,7 +144,7 @@ def execute_command(url,command):
 
 def main():
     global header
-    url=""
+    url="xx.xxx.xx.xx"
     header=generare_header()
     product_version,firmware_version=dlink_detection(url)
     if not product_version:
