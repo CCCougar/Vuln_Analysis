@@ -4,13 +4,23 @@ Vuln Analysis
 ## list
 
 * CVE-2018-20250-winrar-code-execution
+
 	description: CVE-2018-20250 winrar directory traversal vulnerability
+
 * CVE-2017-17125-HG532-Huawei-Command-Injection
+
 	description: CVE-2017-17125 HG532 Huawei router command injecrion vulnerability
+
 * TP-Link_sr20_tddp_ACE
+
 	description: TP Link sr20 ACE vuln in tddp
+
 * Vivotek-ip-camera-remote-stackoverflow
+
 	description: Vivotek ip camera remote stack overflow in httpd
+
 * d-link-dir-645-rce
+
 	date: 2019-08-01
+
 	description: D-Link dir-645 rce vuln with getcfg.php to leak info and service.cgi to command injection
