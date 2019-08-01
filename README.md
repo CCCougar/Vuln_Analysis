@@ -19,7 +19,7 @@ Vuln Analysis
 
 	description: Vivotek ip camera remote stack overflow in httpd
 
-* d-link-dir-645-rce
+* D-Link-dir-645-rce
 
 	date: 2019-08-01
 
