@@ -24,3 +24,9 @@ Vuln Analysis
 	date: 2019-08-01
 
 	description: D-Link dir-645 rce vuln with getcfg.php to leak info and service.cgi to command injection
+
+* CVE-2017-17562-GoAhead-rce
+
+	date: 2019-08-06
+
+	description: GoAhead rce vuln form 2.5 to 3.6.4 with LD_PRELOAD environment.
