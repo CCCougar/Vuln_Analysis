@@ -30,3 +30,10 @@ Vuln Analysis
 	date: 2019-08-06
 
 	description: GoAhead rce vuln form 2.5 to 3.6.4 with LD_PRELOAD environment.
+
+* cve-2015-5165_and_cve-2015-7504
+
+	date: 2019-09-17
+
+	description: cve-2015-5165 info leak in rtl8139 and cve-2015-7504 heap overflow in pncet to execute arbitrary any code.
+
