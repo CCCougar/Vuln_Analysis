@@ -37,3 +37,8 @@ Vuln Analysis
 
 	description: cve-2015-5165 info leak in rtl8139 and cve-2015-7504 heap overflow in pncet to execute arbitrary any code.
 
+* cve-2019-6778-slirp-heap-overflow
+
+	date: 2019-09-28
+
+	description: heap overflow in slirp module.
