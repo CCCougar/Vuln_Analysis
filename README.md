@@ -29,7 +29,9 @@ Vuln Analysis
 
 	description: D-Link dir-645 rce vuln with getcfg.php to leak info and service.cgi to command injection
 
-	writeup: [Dlink getcfg.php远程敏感信息读取漏洞分析](https://ray-cp.github.io/archivers/d-link-getcfg_php-info-leak)
+	writeup: 
+		1. [Dlink getcfg.php远程敏感信息读取漏洞分析](https://ray-cp.github.io/archivers/d-link-getcfg_php-info-leak)
+		2. [D-Link service.cgi远程命令执行漏洞分析](https://ray-cp.github.io/archivers/d-link-service_cgi-rce)
 
 * CVE-2017-17562-GoAhead-rce
 
